@@ -18,19 +18,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="MySQL" width="30px" src="https://developer.android.com/static/studio/images/android-studio-stable.svg?hl=id" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Pycharm" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" style="padding-right:10px;" />][webdev]
-
-<br />
-<br />
-
----
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/amar-haris-yunianto-81a9572b4#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/amar-haris-yunianto-81a9572b4#gh-dark-mode-only)
-
-
+[<img align="left" alt="Android Studio" width="30px" src="https://developer.android.com/static/studio/images/android-studio-stable.svg?hl=id" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Kotlin" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/free-kotlin-2038873-1720086.png?f=webp&w=256" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Vs Code" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" style="padding-right:10px;" />][webdev]
 
 [webdev]: https://github.com/amarhrs
